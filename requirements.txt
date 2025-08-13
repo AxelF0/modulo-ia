@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+alembic
+python-jose[cryptography]
+passlib[bcrypt]
+langchain
+sentence-transformers
+pymupdf
+faiss-cpu
+python-multipart
+psycopg2-binary
